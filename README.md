@@ -1,14 +1,8 @@
-### Classification of Road Cracks using deep neural networks
+# Classification of Road Cracks using Deep Neural Networks
 
-The above repository contains the code and detailed report for "Classification of Road Cracks using Deep Neural Networks" project
+## Overview
+This repository contains the source code and detailed report for the project titled "Classification of Road Cracks using Deep Neural Networks." This project was developed to automate the classification of road surface damages using deep learning techniques, specifically utilizing YOLOv3 and CNN models.
 
-@INPROCEEDINGS{9591783,
-  author={A, Meghana and S, Sridhar K T V and M, Manasa and Ch, Sai Greeshmanth and S, Rajeswari},
-  booktitle={2021 2nd International Conference on Smart Electronics and Communication (ICOSEC)}, 
-  title={Classification of Road Cracks using Deep Neural Networks}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-7},
-  keywords={Deep learning;Road accidents;Costs;Roads;Manuals;Maintenance engineering;Inspection;Road Damage;Deep Neural Networks;Yolov3;CNN},
-  doi={10.1109/ICOSEC51865.2021.9591783}}
+## Publication
+This work is published in the proceedings of the 2021 2nd International Conference on Smart Electronics and Communication (ICOSEC). You can find the IEEE Xplore entry here:
+- [IEEE Xplore - Classification of Road Cracks](https://ieeexplore.ieee.org/document/9591783)
